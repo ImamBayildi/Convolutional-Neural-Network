@@ -1,2 +1,2 @@
 # Convolutional-Neural-Network
-An artificial intelligence training study on a dataset containing butterfly images from 75 different categories on Kaggle
+Kaggle'da 75 farklı kategoriye ait kelebek resimlerini barındıran veri seti üzerinde yapay zeka eğitimi çalışması
